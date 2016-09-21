@@ -1,4 +1,2 @@
-steak,20
-lobster,30
-macaroni,8
-spaghetti,10
+soup,6.9
+chips,3.5
